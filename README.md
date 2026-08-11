@@ -135,7 +135,7 @@ I'm particularly interested in opportunities related to:
 
 I'm always open to connecting with students, developers, recruiters, and professionals interested in technology, data, and business.
 
-**GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+
 
 ---
 
