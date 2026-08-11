@@ -1,8 +1,3 @@
-# Hi, I'm Riddhi Verma 👋
-
-### 🎓 4th Year Computer Engineering Student | Data & Business Analytics Enthusiast
-
-I'm a Computer Engineering student passionate about **Data Analytics, SQL, Business Intelligence, Cloud Computing, and Enterprise Technologies**.
 
 I enjoy turning data and business requirements into meaningful insights, dashboards, and practical solutions. I'm currently building my skills through academic projects, internships, and hands-on practice.
 
