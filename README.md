@@ -10,8 +10,6 @@ I enjoy turning data and business requirements into meaningful insights, dashboa
 * 🗄️ Learning and practicing **SQL & Database Management**
 * 📈 Exploring **Power BI & Excel**
 * ☁️ Interested in **Cloud Computing**
-* 💼 Experience with **SAP ABAP & ERP Systems**
-* 🎨 Interested in **UI/UX & Product Design**
 * 🔭 Currently working on improving my technical and analytical skills
 * 🌱 Always learning something new
 
@@ -29,11 +27,11 @@ I enjoy turning data and business requirements into meaningful insights, dashboa
 
 ### Cloud & Enterprise
 
-`AWS` `SAP` `ERP` `Docker`
+ `SAP` `ERP`
 
 ### Web & Design
 
-`React` `Supabase` `Leaflet.js` `OpenStreetMap` `Figma` `Canva`
+`Figma` `Canva`
 
 ### Tools
 
@@ -78,25 +76,6 @@ Working on projects involving:
 * Business insights
 * KPI analysis
 
----
-
-## 💼 Experience
-
-### SAP ABAP Intern
-
-**D’Décor Textiles Pvt. Ltd.**
-
-Worked with:
-
-* SAP GUI
-* SAP ABAP fundamentals
-* Data Dictionary
-* Tables & fields
-* Report generation
-* ERP workflows
-
----
-
 ## 📚 Currently Learning
 
 ```text
@@ -121,8 +100,6 @@ I'm particularly interested in opportunities related to:
 * 💼 Business Analyst
 * 📈 Business Intelligence
 * ☁️ Cloud & Enterprise Technologies
-* 🧩 SAP / ERP
-* 🖥️ Product & UI/UX
 
 ---
 
