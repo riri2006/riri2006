@@ -19,7 +19,7 @@ I enjoy turning data and business requirements into meaningful insights, dashboa
 
 ### Languages & Databases
 
-`SQL` `Python` `Java` `ABAP` `SQLite` `MySQL`
+`SQL` `Python` `SQLite` `MySQL` `SSMs` 
 
 ### Data & Analytics
 
@@ -27,7 +27,7 @@ I enjoy turning data and business requirements into meaningful insights, dashboa
 
 ### Cloud & Enterprise
 
- `SAP` `ERP`
+ `SAP` 
 
 ### Web & Design
 
@@ -74,7 +74,6 @@ Working on projects involving:
 * Power BI visualizations
 * Data cleaning
 * Business insights
-* KPI analysis
 
 ## 📚 Currently Learning
 
