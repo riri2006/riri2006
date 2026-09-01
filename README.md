@@ -1,126 +1,493 @@
+<div align="center">
 
-I enjoy turning data and business requirements into meaningful insights, dashboards, and practical solutions. I'm currently building my skills through academic projects, internships, and hands-on practice.
+<!-- HERO -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5C56D,35:B5C56D,70:F5C9D4,100:B5C56D&height=260&section=header&text=RIDDHI&fontSize=64&fontColor=FFFFFF&fontAlignY=35&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20%7C%20AI&descAlignY=58&descSize=19&animation=fadeIn" width="100%"/>
 
-## 🚀 About Me
+<br>
 
-* 🎓 4th Year Computer Engineering Student
-* 📊 Interested in **Data Analytics & Business Analysis**
-* 🗄️ Learning and practicing **SQL & Database Management**
-* 📈 Exploring **Power BI & Excel**
-* ☁️ Interested in **Cloud Computing**
-* 🔭 Currently working on improving my technical and analytical skills
-* 🌱 Always learning something new
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=B5C56D&center=true&vCenter=true&width=750&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+Practical+AI+Systems+%F0%9F%A4%96;Exploring+Business+Intelligence+%F0%9F%92%BC;Learning.+Building.+Improving.+%F0%9F%9A%80" />
 
----
+<br>
 
-## 🛠️ Tech Stack
+<a href="https://github.com/riri2006">
+<img src="https://img.shields.io/badge/GitHub-B5C56D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### Languages & Databases
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-B5C56D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-`SQL` `Python` `SQLite` `MySQL` `SSMs` 
+<br><br>
 
-### Data & Analytics
+<img src="https://komarev.com/ghpvc/?username=riri2006&label=PROFILE%20VIEWS&color=B5C56D&style=for-the-badge"/>
 
-`Excel` `Power BI` `Data Analysis` `Data Visualization`
+</div>
 
-### Cloud & Enterprise
+<div align="center">
 
- `SAP` 
+<h1>🌌 WHO AM I?</h1>
 
-### Web & Design
+</div>
 
-`Figma` `Canva`
+<div align="center">
 
-### Tools
+Data → Technology → Intelligence → Impact
 
-`Git` `GitHub` `VS Code`
+</div>
 
----
+I'm Riddhi, a Computer Engineering student exploring the intersection of:
 
-## 📌 Featured Projects
+📊 Data Analytics
+💼 Business Intelligence
+🤖 Artificial Intelligence
+🧠 Explainable AI
+☁️ Cloud & Enterprise Technologies
 
-### 🍱 FoodBridge — Food Redistribution Platform
+I enjoy transforming raw information into meaningful insights and practical solutions.
 
-A web-based platform connecting **food donors with NGOs** to reduce food wastage.
+I don't just look at data.
 
-**Tech:** React • Supabase • APIs • Leaflet.js • OpenStreetMap
+I try to understand the story behind it.
 
-**Key Features:**
+<div align="center">
 
-* Role-based dashboards
-* Food listing and management
-* Request & acceptance system
-* Map-based food discovery
-* Admin management
+<h1>⚡ WHAT I BUILD</h1>
 
----
+</div>
 
-### 🤖 Explainable Multimodal AI Interview Assessment
+<div align="center">
 
-An AI-based framework designed to evaluate interview performance using **multimodal inputs** and provide explainable assessment results.
+📊 DATA
 
-**Areas:** AI • NLP • Computer Vision • Explainable AI • RAG
+🤖 AI
 
----
+💼 BUSINESS
 
-### 📊 Data Analytics Projects
+☁️ TECHNOLOGY
 
-Working on projects involving:
+Analytics
 
-* SQL data analysis
-* Excel dashboards
-* Power BI visualizations
-* Data cleaning
-* Business insights
+NLP
 
-## 📚 Currently Learning
+Business Analysis
 
-```text
+Cloud
+
 SQL
-  ↓
-Data Analysis
-  ↓
-Excel + Power BI
-  ↓
-Business Intelligence
-  ↓
-Cloud & Enterprise Technologies
-```
 
----
+Computer Vision
 
-## 🎯 Career Interests
+BI
 
-I'm particularly interested in opportunities related to:
+Enterprise
 
-* 📊 Data Analyst
-* 💼 Business Analyst
-* 📈 Business Intelligence
-* ☁️ Cloud & Enterprise Technologies
+Power BI
 
----
+RAG
 
-## 📫 Let's Connect
+Dashboards
 
-I'm always open to connecting with students, developers, recruiters, and professionals interested in technology, data, and business.
+Systems
 
+Excel
 
+Explainable AI
 
----
+Insights
 
-## 🐍 Contribution Graph
+Automation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riri2006/riri2006/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riri2006/riri2006/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/riri2006/riri2006/output/github-contribution-grid-snake.svg" />
-</picture>
+</div>
 
----
+<div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<h1>🚀 FEATURED PROJECTS</h1>
 
-*Learning • Building • Analyzing • Growing*
+</div>
 
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🍱 FoodBridge</h2>
+
+Food Redistribution Platform
+
+A platform connecting food donors with NGOs to help reduce food wastage.
+
+🛠️ Built With
+
+React Supabase APIs Leaflet.js OpenStreetMap
+
+✨ Features
+
+👥 Role-based dashboards
+
+🍱 Food listing
+
+🔄 Request workflow
+
+🗺️ Map-based discovery
+
+🛠️ Admin management
+
+Goal: Use technology to connect surplus food with people who need it.
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🤖 Explainable AI Interview Assessment</h2>
+
+Multimodal AI Assessment
+
+An AI framework exploring how NLP, Computer Vision and Explainable AI can be combined for interview assessment.
+
+🛠️ Areas
+
+AI NLP Computer Vision RAG XAI
+
+✨ Focus
+
+🎤 Multimodal inputs
+
+🧠 AI-based evaluation
+
+🔍 Explainable results
+
+📚 Retrieval-Augmented Generation
+
+Goal: Make AI-based assessment more understandable and explainable.
+
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+<h1>📊 MY DATA JOURNEY</h1>
+
+</div>
+
+<div align="center">
+
+                         ┌──────────────┐
+                         │   RAW DATA   │
+                         └──────┬───────┘
+                                │
+                                ▼
+                     ┌──────────────────┐
+                     │   DATA CLEANING  │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                     ┌──────────────────┐
+                     │   SQL ANALYSIS   │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                   ┌──────────────────────┐
+                   │ EXCEL / POWER BI     │
+                   └──────────┬───────────┘
+                              │
+                              ▼
+                     ┌──────────────────┐
+                     │ BUSINESS INSIGHT │
+                     └────────┬─────────┘
+                              │
+                              ▼
+                       ┌────────────┐
+                       │ DECISIONS  │
+                       └────────────┘
+
+DATA → UNDERSTAND → VISUALIZE → INSIGHT → DECISION
+
+</div>
+
+<div align="center">
+
+<h1>🧠 TECH STACK</h1>
+
+</div>
+
+<div align="center">
+
+<h2>📊 Data & Analytics</h2>
+
+</div>
+
+<div align="center">
+
+<p>
+<img src="https://img.shields.io/badge/SQL-B5C56D?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-B5C56D?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-B5C56D?style=for-the-badge&logo=powerbi&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-B5C56D?style=for-the-badge&logoColor=white"/>
+</p>
+
+</div>
+
+<div align="center">
+
+<h2>🤖 Artificial Intelligence</h2>
+
+</div>
+
+<div align="center">
+
+<p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-B5C56D?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-B5C56D?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-B5C56D?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-B5C56D?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explainable%20AI-B5C56D?style=for-the-badge&logoColor=white"/>
+</p>
+
+</div>
+
+<div align="center">
+
+<h2>💻 Programming</h2>
+
+</div>
+
+<div align="center">
+
+<p>
+<img src="https://img.shields.io/badge/Python-B5C56D?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-B5C56D?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+</div>
+
+<div align="center">
+
+<h2>🛠️ Tools</h2>
+
+</div>
+
+<div align="center">
+
+<p>
+<img src="https://img.shields.io/badge/Git-B5C56D?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-B5C56D?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-B5C56D?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-B5C56D?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-B5C56D?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+</div>
+
+<div align="center">
+
+<h1>🔥 CURRENTLY EXPLORING</h1>
+
+<pre>
+        SQL
+         │
+         ▼
+   DATA ANALYTICS
+         │
+         ▼
+   POWER BI / EXCEL
+         │
+         ▼
+ BUSINESS INTELLIGENCE
+         │
+         ▼
+        AI
+         │
+         ▼
+ EXPLAINABLE AI
+         │
+         ▼
+ CLOUD & ENTERPRISE
+</pre>
+
+</div>
+
+<div align="center">
+
+<h1>🧩 WHAT I'M WORKING TOWARDS</h1>
+
+</div>
+
+📊 Data Analytics
+
+Building stronger skills in:
+
+SQL → Cleaning → Analysis → Visualization → Insights
+
+💼 Business Intelligence
+
+Learning how dashboards and analytics can support better decisions.
+
+🤖 AI
+
+Exploring:
+
+NLP → Computer Vision → RAG → Explainable AI
+
+☁️ Enterprise Technology
+
+Understanding how modern technology works at organizational scale.
+
+<div align="center">
+
+<h1>🎯 CAREER FOCUS</h1>
+
+</div>
+
+<div align="center">
+
+💎 Where Data Meets Business Meets Technology
+
+Role
+
+What I Want to Build
+
+📊 Data Analyst
+
+Insights from real-world datasets
+
+💼 Business Analyst
+
+Better processes & decisions
+
+📈 BI Analyst
+
+Interactive dashboards & reporting
+
+🤖 AI / Analytics
+
+Intelligent analytical systems
+
+</div>
+
+<div align="center">
+
+<h1>📈 GITHUB ANALYTICS</h1>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=riri2006&show_icons=true&theme=transparent&bg_color=B5C56D&title_color=F5C9D4&text_color=F5C9D4&icon_color=F5C9D4&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="49%"/>
+
+<img src="https://streak-stats.demolab.com?user=riri2006&theme=transparent&bg_color=B5C56D&title_color=F5C9D4&text_color=F5C9D4&icon_color=F5C9D4&hide_border=true" width="49%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riri2006&layout=compact&theme=transparent&bg_color=B5C56D&title_color=F5C9D4&text_color=F5C9D4&icon_color=F5C9D4&hide_border=true" width="42%"/>
+
+</div>
+
+<div align="center">
+
+<h1>🐍 CONTRIBUTION ACTIVITY</h1>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/riri2006/riri2006/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+<div align="center">
+
+<h1>🏆 BUILDING WITH PURPOSE</h1>
+
+</div>
+
+<div align="center">
+
+┌─────────────────────────────────────────────┐
+│                                             │
+│             FIND THE PROBLEM               │
+│                     ↓                       │
+│             UNDERSTAND THE DATA             │
+│                     ↓                       │
+│              BUILD THE SOLUTION             │
+│                     ↓                       │
+│                MEASURE IMPACT               │
+│                     ↓                       │
+│                 KEEP IMPROVING              │
+│                                             │
+└─────────────────────────────────────────────┘
+
+Technology is useful when it solves a real problem.
+
+</div>
+
+<div align="center">
+
+<h1>🌱 LEARNING PHILOSOPHY</h1>
+
+</div>
+
+<div align="center">
+
+Learn → Build → Break → Understand → Improve
+
+<br>
+
+I believe the fastest way to learn technology is to build real things,
+understand why they work, and continuously improve them.
+
+</div>
+
+<div align="center">
+
+<h1>💫 BEYOND THE CODE</h1>
+
+</div>
+
+📚 Learn something new
+        ↓
+💡 Turn it into an idea
+        ↓
+🛠️ Build a prototype
+        ↓
+📊 Measure the result
+        ↓
+🔍 Find what can improve
+        ↓
+🚀 Build it better
+
+<div align="center">
+
+<h1>📫 LET'S CONNECT</h1>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/riri2006">
+<img src="https://img.shields.io/badge/GitHub-B5C56D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-B5C56D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+💬 Always learning. Always building.
+
+</div>
+
+<div align="center">
+
+✨ LEARN • BUILD • ANALYZE • IMPROVE ✨
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5C56D,35:B5C56D,70:F5C9D4,100:B5C56D&height=150&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
