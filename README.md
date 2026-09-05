@@ -1,8 +1,14 @@
 <div align="center">
 
 <!-- HERO -->
+<h3 id="hello-world-yellow_heart">Hello World! :yellow_heart:</h3>
+<img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width="200/">
+<hr>
+<h2 id="my-skills-computer">My Skills :computer:</h2>
+<ul>
+<li><strong>Programming Languages</strong></li>
+</ul>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5C56D,35:B5C56D,70:F5C9D4,100:B5C56D&height=260&section=header&text=RIDDHI&fontSize=64&fontColor=FFFFFF&fontAlignY=35&desc=DATA%20ANALYTICS%20%7C%20BUSINESS%20%7C%20AI&descAlignY=58&descSize=19&animation=fadeIn" width="100%"/>
 
 <br>
 
