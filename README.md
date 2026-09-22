@@ -1,33 +1,34 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════ -->
-<!--                    HOGWARTS ENTRANCE                    -->
+<!--                     HOGWARTS GATE                       -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <img src="https://media.giphy.com/media/xUYddq5N8tGWQT4HOH/giphy.gif" width="100%"/>
 
+<br><br>
+
+# ⚡ RIDDHI VERMA
+
+### Computer Engineering Student
+### Data • AI • Business Intelligence
+
 <br>
 
-# 🪄 RIDDHI VERMA
-
-### ⚡ Computer Engineering Student • Data • AI • Business Intelligence
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=21&duration=3200&pause=1000&color=D4AF6A&center=true&vCenter=true&width=850&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+Practical+AI+Systems+%F0%9F%A4%96;Exploring+Business+Intelligence+%F0%9F%92%BC;Learning.+Building.+Improving.+%E2%9A%A1;Mischief+Managed+%F0%9F%AA%84"/>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=21&duration=3500&pause=1200&color=D4AF6A&center=true&vCenter=true&width=850&lines=Turning+Data+into+Insights+%F0%9F%93%9A;Building+Practical+AI+Systems+%F0%9F%AA%84;Exploring+Business+Intelligence+%F0%9F%8F%B0;Learning.+Building.+Improving." />
 
 <br><br>
 
 <a href="https://github.com/riri2006">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=D4AF6A"/>
+<img src="https://img.shields.io/badge/GitHub-10151C?style=for-the-badge&logo=github&logoColor=D4AF6A"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=D4AF6A"/>
+<img src="https://img.shields.io/badge/LinkedIn-10151C?style=for-the-badge&logo=linkedin&logoColor=D4AF6A"/>
 </a>
 
 <a href="mailto:riddhiverma001@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=D4AF6A"/>
+<img src="https://img.shields.io/badge/Email-10151C?style=for-the-badge&logo=gmail&logoColor=D4AF6A"/>
 </a>
 
 <br><br>
@@ -36,48 +37,23 @@
 
 </div>
 
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    MIDNIGHT STUDY                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<br>
-
-<div align="center">
-
-## 🌙 THE WITCHING HOUR — WHERE IDEAS COME ALIVE
-
-<img src="https://media.giphy.com/media/EZdiQqn6N3unvrKQHr/giphy.gif" width="85%"/>
-
-<br><br>
-
-> *Some of the best ideas are born after midnight.*
-
-<br>
-
-Exploring better ways to work with **data, AI and technology** —
-one problem, one experiment and one project at a time.
-
-</div>
-
-
 ---
 
 <div align="center">
 
-# 🦉 THE HOGWARTS PROFILE
+# 🕯️ THE WIZARD'S STUDY
 
-### `Data → Technology → Intelligence → Impact`
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="92%"/>
+
+### A quiet place where data, ideas and technology meet.
 
 </div>
 
+<br>
+
 I'm **Riddhi**, a Computer Engineering student exploring the intersection of:
 
-📊 **Data Analytics**  
-💼 **Business Intelligence**  
-🤖 **Artificial Intelligence**  
-🧠 **Explainable AI**  
-☁️ **Cloud & Enterprise Technologies**
+**Data Analytics · Business Intelligence · Artificial Intelligence · Explainable AI · Cloud & Enterprise Technologies**
 
 I enjoy transforming raw information into meaningful insights and practical solutions.
 
@@ -92,86 +68,67 @@ I don't just look at data.
 
 </div>
 
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    THE COMMON ROOM                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-<br>
+# 🏰 THE HOGWARTS HALL
 
-<img src="https://media.giphy.com/media/kQYNaEaBKjSw79qWJ7/giphy.gif" width="70%"/>
-
-<br>
-
-## 🕯️ THE COMMON ROOM — WHAT I BUILD
+### What I build
 
 </div>
 
 <table align="center">
 <tr>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ### 📊
 
-## DATA
+**DATA**
 
-Analytics
-
-SQL
-
-Power BI
-
+Analytics  
+SQL  
+Power BI  
 Excel
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### 🤖
+### 🪄
 
-## AI
+**AI**
 
-NLP
-
-RAG
-
-Computer Vision
-
+NLP  
+RAG  
+Computer Vision  
 Explainable AI
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### 💼
+### 📜
 
-## BUSINESS
+**BUSINESS**
 
-Business Analysis
-
-BI
-
-Dashboards
-
+Business Analysis  
+BI  
+Dashboards  
 Insights
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-### ☁️
+### 🏰
 
-## TECHNOLOGY
+**TECHNOLOGY**
 
-Cloud
-
-Enterprise
-
-Systems
-
+Cloud  
+Enterprise  
+Systems  
 Automation
 
 </td>
@@ -183,12 +140,9 @@ Automation
 
 <div align="center">
 
-### ✦ The Spellbook ✦
-
 `DATA` → `UNDERSTAND` → `BUILD` → `VISUALIZE` → `INSIGHT`
 
 </div>
-
 
 ---
 
@@ -196,14 +150,11 @@ Automation
 
 # 🪄 THE ROOM OF REQUIREMENT
 
-### Projects built to solve real problems
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="90%"/>
 
-<br>
-
-<img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="70%"/>
+### Projects built with purpose
 
 </div>
-
 
 <table>
 <tr>
@@ -212,7 +163,7 @@ Automation
 
 <div align="center">
 
-# 🍱 ANNA SARTHI
+## 🍱 ANNA SARTHI
 
 ### Food Redistribution Platform
 
@@ -220,15 +171,12 @@ Automation
 
 A platform connecting food donors with NGOs to help reduce food wastage.
 
-### ⚗️ The Potion Ingredients
+**Built With**
 
-`React`  
-`Supabase`  
-`APIs`  
-`Leaflet.js`  
-`OpenStreetMap`
+`React` `Supabase` `APIs`  
+`Leaflet.js` `OpenStreetMap`
 
-### ✨ Enchantments
+**Features**
 
 - 👥 Role-based dashboards
 - 🍱 Food listing
@@ -236,18 +184,15 @@ A platform connecting food donors with NGOs to help reduce food wastage.
 - 🗺️ Map-based discovery
 - 🛠️ Admin management
 
-<br>
-
-> *Turning surplus food into meaningful impact.*
+> Connecting surplus food with people who need it.
 
 </td>
-
 
 <td width="50%" valign="top">
 
 <div align="center">
 
-# 🤖 EXPLAINABLE AI
+## 🤖 EXPLAINABLE AI
 
 ### Interview Assessment
 
@@ -255,73 +200,51 @@ A platform connecting food donors with NGOs to help reduce food wastage.
 
 An AI framework exploring how NLP, Computer Vision and Explainable AI can be combined for interview assessment.
 
-### ⚗️ The Potion Ingredients
+**Areas**
 
-`AI`  
-`NLP`  
-`Computer Vision`  
-`RAG`  
-`XAI`
+`AI` `NLP` `Computer Vision`  
+`RAG` `XAI`
 
-### ✨ Enchantments
+**Focus**
 
 - 🎤 Multimodal inputs
 - 🧠 AI-based evaluation
 - 🔍 Explainable results
 - 📚 Retrieval-Augmented Generation
 
-<br>
-
-> *Making intelligent systems easier to understand.*
+> Making AI-based assessment more understandable.
 
 </td>
 
 </tr>
 </table>
 
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    HOGWARTS LIBRARY                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-<br>
-
 # 📚 THE HOGWARTS LIBRARY
 
-### My journey from raw information to meaningful decisions
+### My Data Journey
 
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="75%"/>
+<img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="75%"/>
 
-<br><br>
+</div>
 
 ```text
-                    ┌─────────────────┐
-                    │    RAW DATA     │
-                    └────────┬────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │   DATA CLEANING     │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │    SQL ANALYSIS     │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                ┌─────────────────────────┐
-                │    EXCEL / POWER BI     │
-                └────────────┬────────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │  BUSINESS INSIGHT   │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                    ┌─────────────────┐
-                    │    DECISIONS    │
-                    └─────────────────┘
+                       RAW DATA
+                          │
+                          ▼
+                    DATA CLEANING
+                          │
+                          ▼
+                     SQL ANALYSIS
+                          │
+                          ▼
+                   EXCEL / POWER BI
+                          │
+                          ▼
+                   BUSINESS INSIGHT
+                          │
+                          ▼
+                      DECISIONS
