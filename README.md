@@ -21,34 +21,33 @@ I enjoy working with data, building practical applications, and exploring how AI
 ## 🛠️ Skills
 
 ### Programming & Data
-- Python
-- SQL
-- Excel
-- Power BI
-- Data Analytics
-- Data Visualization
 
-### AI & ML
-- NLP
-- Computer Vision
-- RAG
-- LLMs
-- LangChain
-- LangGraph
-- Explainable AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+### AI & Machine Learning
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F61?style=flat)
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Figma
-- Canva
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🍲 Anna Sarthi
+
 **Food Redistribution Platform**
 
 A web platform connecting food donors with NGOs to help redistribute surplus food.
