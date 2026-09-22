@@ -1,16 +1,18 @@
 <div align="center">
 
-<!-- 🪄 HOGWARTS HERO -->
+<!-- 🪄 HARRY POTTER PIXEL GIF -->
 
-<img src="./assets/harry-potter-readme.png" width="100%"/>
+<img 
+src="https://media.giphy.com/media/xUYddq5N8tGWQT4HOH/giphy.gif"
+width="700"
+alt="Harry Potter Pixel Art"
+/>
 
-<br>
+<br><br>
 
 <h1>⚡ RIDDHI VERMA ⚡</h1>
 
-<h3>
-🪄 Turning Data into Magic • Building AI Systems • Exploring Technology
-</h3>
+<h3>🪄 Turning Data into Magic • Building AI Systems • Exploring Technology</h3>
 
 <br>
 
@@ -19,24 +21,26 @@
 <br><br>
 
 <a href="https://github.com/riri2006">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=D6B56D"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=D6B56D"/>
 </a>
 
 <a href="mailto:riddhiverma001@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=D6B56D"/>
 </a>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=riri2006&label=PROFILE%20VIEWS&color=D6B56D&style=for-the-badge"/>
 
-</div>
+<br><br>
 
-<br>
+✨ <b>Welcome to my little corner of the wizarding world.</b> ✨
+
+</div>
 
 ---
 
@@ -162,6 +166,8 @@ An AI framework exploring how NLP, Computer Vision and Explainable AI can be com
 # 🧪 MY DATA JOURNEY
 
 </div>
+
+<div align="center">
 
 ```text
                     ┌─────────────────┐
