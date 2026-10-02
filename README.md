@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Riddhi Verma--
+#  --Riddhi Verma--
 
 ### `Computer Engineering Student` • `Data Analytics` • `AI`
 
