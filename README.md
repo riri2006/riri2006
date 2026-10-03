@@ -65,11 +65,9 @@ I enjoy working with data, building practical AI systems, designing dashboards, 
 
 ### ☁️ Enterprise & Tools
 
-<img src="https://img.shields.io/badge/SAP-B5C56D?style=for-the-badge&logo=sap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F5C9D4?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-B5C56D?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-F5C9D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-B5C56D?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-F5C9D4?style=for-the-badge&logo=canva&logoColor=white"/>
 
 ---
