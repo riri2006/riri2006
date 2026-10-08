@@ -24,7 +24,7 @@
 
 ---
 
-## 🌷 About Me
+## Me
 
 I'm **Riddhi**, a Computer Engineering student interested in the space where:
 
@@ -43,9 +43,9 @@ I enjoy working with data, building practical AI systems, designing dashboards, 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 📊 Data & Analytics
+###  Data & Analytics
 
 <img src="https://img.shields.io/badge/SQL-B5C56D?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-F5C9D4?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
@@ -54,7 +54,7 @@ I enjoy working with data, building practical AI systems, designing dashboards, 
 <img src="https://img.shields.io/badge/NumPy-B5C56D?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-F5C9D4?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 
-### 🤖 AI / ML
+###  AI / ML
 
 <img src="https://img.shields.io/badge/Python-B5C56D?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP-F5C9D4?style=for-the-badge&logoColor=white"/>
@@ -63,7 +63,7 @@ I enjoy working with data, building practical AI systems, designing dashboards, 
 <img src="https://img.shields.io/badge/LangGraph-B5C56D?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Explainable%20AI-F5C9D4?style=for-the-badge&logoColor=white"/>
 
-### ☁️ Enterprise & Tools
+###  Enterprise & Tools
 
 <img src="https://img.shields.io/badge/Git-F5C9D4?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-B5C56D?style=for-the-badge&logo=github&logoColor=white"/>
@@ -72,9 +72,9 @@ I enjoy working with data, building practical AI systems, designing dashboards, 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🍱 Anna Sarthi
+###  Anna Sarthi
 
 **Food Redistribution Platform**
 
