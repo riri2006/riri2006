@@ -39,7 +39,6 @@ I enjoy working with data, building practical AI systems, designing dashboards, 
 * 🧠 NLP, RAG & Explainable AI
 * 💼 Business & Data-driven Decision Making
 * ☁️ Cloud & Enterprise Technologies
-* 🎨 UI/UX & Product Design
 
 ---
 
@@ -92,7 +91,7 @@ A web platform designed to connect food donors with NGOs and help reduce food wa
 
 ---
 
-### 🤖 Explainable AI Interview Assessment
+###  Explainable AI Interview Assessment
 
 **Multimodal AI Assessment Framework**
 
