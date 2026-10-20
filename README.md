@@ -12,10 +12,6 @@
 <img src="https://img.shields.io/badge/GitHub-B5C56D?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-F5C9D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=riri2006&label=PROFILE%20VIEWS&color=B5C56D&style=for-the-badge"/>
