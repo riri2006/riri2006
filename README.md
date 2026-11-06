@@ -2,7 +2,7 @@
 
 #  Riddhi Verma
 
-### `Computer Engineering Student` • `Data Analytics` • `AI`
+### `Computer Engineering Student` 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=B5C56D&center=true&vCenter=true&width=750&lines=Turning+Data+into+Insights+%F0%9F%93%8A;Building+Practical+AI+Systems+%F0%9F%A4%96;Exploring+Business+Intelligence+%F0%9F%92%BC;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%9A%80" />
 
