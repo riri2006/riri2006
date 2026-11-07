@@ -32,7 +32,7 @@ I enjoy working with data, building practical AI systems, designing dashboards, 
 
 * 📊 Data Analytics & Business Intelligence
 * 🤖 Artificial Intelligence & Machine Learning
-* 🧠 NLP, RAG & Explainable AI
+* 🧠 RAG & Explainable AI
 * 💼 Business & Data-driven Decision Making
 * ☁️ Cloud & Enterprise Technologies
 
