@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Riddhi Vermaa-- 
+#  Riddhi Vermaa
 
 ### `Computer Engineering Student` 
 
